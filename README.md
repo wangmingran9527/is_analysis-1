@@ -27,9 +27,11 @@
 ## 期末考查
 - [期末考核要求](./test6.md)
 - 老师做的<b>基于GitHub的实验管理平台</b>参考：https://github.com/zwdbox/is_analysis/tree/master/test6
-- 期末考查比较优秀(90分以上)的同学如下：
-    - [郭钊彬	软件(本)15-1](https://github.com/HaveyouBinbin/is_analysis/tree/master/test6)
-   
+- 一分耕耘，一分收获，高分同学的成绩来自于他的努力和汗水。期末考查比较优秀(90分以上)的同学如下：
+    - [郭钊彬	软件(本)15-1 95分](https://github.com/HaveyouBinbin/is_analysis/tree/master/test6)
+    - [杨钉权	软件(本)15-1 94分](https://github.com/sinmem/is_analysis/tree/master/test6)
+    
+    
 ## 实验
 
 - ### [实验1：业务流程建模](./test1.md)
