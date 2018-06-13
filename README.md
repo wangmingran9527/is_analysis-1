@@ -30,7 +30,7 @@
 - 期末考查比较优秀(90分以上)的同学如下：<b> 一分耕耘，一分收获，高分同学的成绩来自于他/她的努力和汗水。</b> 
     - [郭钊彬	软件(本)15-1 95分](https://github.com/HaveyouBinbin/is_analysis/tree/master/test6)
     - [杨钉权	软件(本)15-1 94分](https://github.com/sinmem/is_analysis/tree/master/test6)
-    
+    - [周志强	软件(本)15-1 92分](https://github.com/aGreySky/is_analysis/tree/master/test6)
     
 ## 实验
 
