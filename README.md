@@ -31,6 +31,9 @@
     - [郭钊彬	软件(本)15-1 95分](https://github.com/HaveyouBinbin/is_analysis/tree/master/test6)
     - [杨钉权	软件(本)15-1 94分](https://github.com/sinmem/is_analysis/tree/master/test6)
     - [周志强	软件(本)15-1 92分](https://github.com/aGreySky/is_analysis/tree/master/test6)
+    - [周克强	软件(本)15-2 94分](https://github.com/Alex6032/is_analysis/tree/master/test6)
+    - [孙守利	软件(本)15-3 91分](https://github.com/shoulisun/is_analysis/tree/master/test6)
+    
 ## 期末最终成绩说明：
     平时成绩占50%，期末考试占50%。
     比如：平时5次实验成绩是：90,80,85,75,80，期末实验的成绩是67
