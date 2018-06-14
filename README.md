@@ -33,6 +33,7 @@
     - [周志强	软件(本)15-1 92分](https://github.com/aGreySky/is_analysis/tree/master/test6)
     - [周克强	软件(本)15-2 94分](https://github.com/Alex6032/is_analysis/tree/master/test6)
     - [孙守利	软件(本)15-3 91分](https://github.com/shoulisun/is_analysis/tree/master/test6)
+    - [吴  靖	软件(本)15-4](https://github.com/ikowalski/is_analysis/tree/master/test6)
     
 ## 期末最终成绩说明：
     平时成绩占50%，期末考试占50%。
