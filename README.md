@@ -28,12 +28,12 @@
 - [期末考核要求](./test6.md)
 - 老师做的<b>基于GitHub的实验管理平台</b>参考：https://github.com/zwdbox/is_analysis/tree/master/test6
 - 期末考查比较优秀(90分以上)的同学如下：<b> 一分耕耘，一分收获，高分同学的成绩来自于他/她的努力和汗水。</b> 
-    - [郭钊彬	软件(本)15-1 95分](https://github.com/HaveyouBinbin/is_analysis/tree/master/test6)
+    - [郭钊彬	软件(本)15-1 96分](https://github.com/HaveyouBinbin/is_analysis/tree/master/test6)
     - [杨钉权	软件(本)15-1 94分](https://github.com/sinmem/is_analysis/tree/master/test6)
     - [周志强	软件(本)15-1 92分](https://github.com/aGreySky/is_analysis/tree/master/test6)
     - [周克强	软件(本)15-2 94分](https://github.com/Alex6032/is_analysis/tree/master/test6)
     - [孙守利	软件(本)15-3 91分](https://github.com/shoulisun/is_analysis/tree/master/test6)
-    - [吴  靖	软件(本)15-4](https://github.com/ikowalski/is_analysis/tree/master/test6)
+    - [吴  靖	软件(本)15-4 95分](https://github.com/ikowalski/is_analysis/tree/master/test6)
     
 ## 期末最终成绩说明：
     平时成绩占50%，期末考试占50%。
