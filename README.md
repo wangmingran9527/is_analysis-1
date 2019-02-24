@@ -7,7 +7,7 @@
 
 清华大学出版社 王晓敏 邝孔武 编著
 
-主讲：成都大学信息科学与工程学院 赵卫东副教授
+主讲：成都大学信息科学与工程学院 赵卫东副教授2
 
 ## 老师编写的基于GitHub的实验管理平台
 - 查看与修改你的GitHub用户名：http://202.115.82.8:1522
@@ -262,7 +262,6 @@
 - 自己独立完成的实验，分数不会低。
 
 ## 参考资料
-
 - 绘制方法参考[PlantUML标准](http://plantuml.com)
 - Markdown格式参考：https://www.jianshu.com/p/b03a8d7b1719
 - 老师的教学资源：https://github.com/zwdbox/is_analysis
