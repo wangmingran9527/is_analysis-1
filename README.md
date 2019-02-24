@@ -28,12 +28,7 @@
 - [期末考核要求](./test6.md)
 - 老师做的<b>基于GitHub的实验管理平台</b>参考：https://github.com/zwdbox/is_analysis/tree/master/test6
 - 期末考查比较优秀(90分以上)的同学如下：<b> 一分耕耘，一分收获，高分同学的成绩来自于他/她的努力和汗水。</b> 
-    - [郭钊彬	软件(本)15-1 96分](https://github.com/HaveyouBinbin/is_analysis/tree/master/test6)
-    - [杨钉权	软件(本)15-1 94分](https://github.com/sinmem/is_analysis/tree/master/test6)
-    - [周志强	软件(本)15-1 92分](https://github.com/aGreySky/is_analysis/tree/master/test6)
-    - [周克强	软件(本)15-2 94分](https://github.com/Alex6032/is_analysis/tree/master/test6)
-    - [孙守利	软件(本)15-3 91分](https://github.com/shoulisun/is_analysis/tree/master/test6)
-    - [吴  靖	软件(本)15-4 95分](https://github.com/ikowalski/is_analysis/tree/master/test6)
+
     
 ## 期末最终成绩说明：
     平时成绩占50%，期末考试占50%。
@@ -47,13 +42,7 @@
         1. 没有按角色分组
         2. 没有文字说明
     - 本实验部分比较优秀(95分以上)的同学如下：    
-        - [郭钊彬	软件(本)15-1](https://github.com/HaveyouBinbin/is_analysis/tree/master/test1)
-        - [姚启迪	软件(本)15-1](https://github.com/Konoha-Y/is_analysis/tree/master/test1)
-        - [曾玉龙	软件(本)15-2](https://github.com/Zengyulong/is_analysis/tree/master/test1)
-        - [陈惠翔	软件(本)15-4](https://github.com/JasonChenhx/is_analysis/tree/master/test1)
-        - [梅恩	软件(本)15-4](https://github.com/228957643/is_analysis/tree/master/test1)
-        - [吴靖	软件(本)15-4](https://github.com/ikowalski/is_analysis/tree/master/test1)
-        - [张启恒	软件(本)15-4](https://github.com/zhangqiheng/is_analysis/tree/master/test1)
+
 - ### [实验2：图书管理系统用例建模](./test2.md)
     - 实验2批改情况说明（大家都容易出现的问题有）：
         1. << include >>和<< extend >>写成了include和extend，没有<<>>符号    
@@ -61,19 +50,7 @@
     比如“书目维护”用例中的“增加”，“修改”，“删除”用例，
     不应该是<< extend >>关系，应该是<< include >>关系或者是<< use >>关系。
     - 本实验部分比较优秀(95分以上)的同学如下：
-        - [杨钉权	软件(本)15-1](https://github.com/sinmem/is_analysis/tree/master/test2)
-        - [周志强	软件(本)15-1](https://github.com/aGreySky/is_analysis/tree/master/test2)
-        - [杨楠	软件(本)15-2](https://github.com/abecd/is_analysis/tree/master/test2)
-        - [杜芸彦	软件(本)15-3](https://github.com/d123456yy/is_analysis/tree/master/test2)
-        - [邱小霞	软件(本)15-3](https://github.com/q1314520xx/is_analysis/tree/master/test2)
-        - [孙守利	软件(本)15-3](https://github.com/shoulisun/is_analysis/tree/master/test2)
-        - [余行	软件(本)15-3](https://github.com/yuhang456/is_analysis/tree/master/test2)
-        - [张文	软件(本)15-3](https://github.com/Anntly/is_analysis/tree/master/test2)
-        - [陈惠翔	软件(本)15-4](https://github.com/JasonChenhx/is_analysis/tree/master/test2)
-        - [蒋春林	软件(本)15-4](https://github.com/FateBerserker/is_analysis/tree/master/test2)
-        - [梅恩	软件(本)15-4](https://github.com/228957643/is_analysis/tree/master/test2)
-        - [吴靖	软件(本)15-4](https://github.com/ikowalski/is_analysis/tree/master/test2)
-        - [张启恒	软件(本)15-4](https://github.com/zhangqiheng/is_analysis/tree/master/test2)
+
 - ### [实验3：图书管理系统领域对象建模](./test3.md)
     - 实验3批改情况说明（大家都容易出现的问题有）：
         1. 应该是类图在前，对象图在后。整个系统最好只有一张类图，减小类的重复编写。        
@@ -82,31 +59,13 @@
         4. 对象图中的数据要符合实事。比如，字符串要加单引号，数字不加引号，密码不要用明文。   
         5. 应该说明每个类由哪个用例产生，被哪些实例引用。
     - 本实验部分比较优秀(95分以上)的同学如下：
-        - [郭钊彬	软件(本)15-1](https://github.com/HaveyouBinbin/is_analysis/tree/master/test3)
-        - [杨钉权	软件(本)15-1](https://github.com/sinmem/is_analysis/tree/master/test3)
-        - [王华港	软件(本)15-2](https://github.com/wanghuagang/is_analysis/tree/master/test3)
-        - [邱小霞	软件(本)15-3](https://github.com/q1314520xx/is_analysis/tree/master/test3)
-        - [蒋春林	软件(本)15-4](https://github.com/FateBerserker/is_analysis/tree/master/test3)
-        - [吴  靖	软件(本)15-4](https://github.com/ikowalski/is_analysis/tree/master/test3)
-        - [张启恒	软件(本)15-4](https://github.com/zhangqiheng/is_analysis/tree/master/test3)
+
 - ### [实验4：图书管理系统顺序图绘制](./test4.md)
     - 实验4批改情况说明（大家都容易出现的问题有）：
         1. 顺序图中的消息一般不需要加序号。顺序图本身就是按时间顺序由上到下排列的。
         2. 实验2的类图中的类在顺序图中没有足够的体现，或者名称不匹配。
     - 注意，用例图，类图，顺序图一定要相互联系，互相参照。
     - 本实验部分比较优秀(95分以上)的同学如下：
-        - [郭钊彬	软件(本)15-1](https://github.com/HaveyouBinbin/is_analysis/tree/master/test4)
-        - [秦著	软件(本)15-1](https://github.com/614756773/is_analysis/tree/master/test4)
-        - [杨钉权	软件(本)15-1](https://github.com/sinmem/is_analysis/tree/master/test4)
-        - [周志强	软件(本)15-1](https://github.com/aGreySky/is_analysis/tree/master/test4)
-        - [黄伟	软件(本)15-2](https://github.com/hwaning/is_analysis/tree/master/test4)
-        - [周鑫	软件(本)15-2](https://github.com/ZhouXin01/is_analysis/tree/master/test4)
-        - [杜芸彦	软件(本)15-3](https://github.com/d123456yy/is_analysis/tree/master/test4)
-        - [邱小霞	软件(本)15-3](https://github.com/q1314520xx/is_analysis/tree/master/test4)
-        - [孙守利	软件(本)15-3](https://github.com/shoulisun/is_analysis/tree/master/test4)
-        - [吴江涛	软件(本)15-3](https://github.com/wjtwjt96/is_analysis/tree/master/test4)
-        - [梅恩	软件(本)15-4](https://github.com/228957643/is_analysis/tree/master/test4)
-        - [吴靖	软件(本)15-4](https://github.com/ikowalski/is_analysis/tree/master/test4)
       
     - 老师编写的[基于GitHub的实验管理平台](http://202.115.82.8:1522)的用例图，类图，顺序图如下：
         - 用例图(只有一个)：
@@ -130,8 +89,7 @@
         -![sequence3](./test6/sequence评定成绩.png)
         
 - ### [实验5：图书管理系统数据库设计与界面设计](./test5.md)
-    - 实验5批改情况说明（大家都容易出现的问题有）：
-    
+    - 实验5批改情况说明（大家都容易出现的问题有）：    
           1. 数据库表的字段与类图的属性不符。
           2. 界面控件与表的字段属性不符。
           3. 如果表的字段是外键，一定要写明参照表。
@@ -144,19 +102,7 @@
           8. API接口参数“method 固定为POST”的设计不合理。method不应该是参数名称。
           9. 增加图书的POST接口，很多同学输入的图书参数只有一个，是book对象（比如JavaBean），这样不正确，原因是为了解耦，接口必须是独立的，与任何语言无关。正确的写法是输入的参数是图书的所有主要属性，但不含图书的BookID，BookID应该是在添加图书成功之后，由系统自动生成，并通过接口返回，在返回的参数中出现BookID!
           
-    - 本实验部分比较优秀(95分至98分)的同学如下：
-        - [郭钊彬	软件(本)15-1](https://github.com/HaveyouBinbin/is_analysis/tree/master/test5)
-        - [朱鹃	软件(本)15-2](https://github.com/shiweizj/is_analysis/tree/master/test5)
-        - [杜芸彦	软件(本)15-3](https://github.com/d123456yy/is_analysis/tree/master/test5)
-        - [孙守利	软件(本)15-3](https://github.com/shoulisun/is_analysis/tree/master/test5)
-        - [张文	软件(本)15-3](https://github.com/Anntly/is_analysis/tree/master/test5)       
-        - [梅恩	软件(本)15-4](https://github.com/228957643/is_analysis/tree/master/test5)
-        - [吴靖	软件(本)15-4](https://github.com/ikowalski/is_analysis/tree/master/test5)
-        
-    - 本实验部分特别优秀(99分)的同学如下：
-        - [杨钉权	软件(本)15-1](https://github.com/sinmem/is_analysis/tree/master/test5)
-        - [蒋春林	软件(本)15-4](https://github.com/FateBerserker/is_analysis/tree/master/test5)
-        - [张启恒	软件(本)15-4](https://github.com/zhangqiheng/is_analysis/tree/master/test5)    
+    - 本实验部分比较优秀(95分至98分)的同学如下： 
         
     - 老师编写的[基于GitHub的实验管理平台](http://202.115.82.8:1522)的表结构如下：
       
