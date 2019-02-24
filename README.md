@@ -7,7 +7,7 @@
 
 清华大学出版社 王晓敏 邝孔武 编著
 
-主讲：成都大学信息科学与工程学院 赵卫东副教授2
+主讲：成都大学信息科学与工程学院 赵卫东副教授
 
 ## 老师编写的基于GitHub的实验管理平台
 - 查看与修改你的GitHub用户名：http://202.115.82.8:1522
@@ -267,3 +267,4 @@
 - 老师的教学资源：https://github.com/zwdbox/is_analysis
 - Git简书：https://git-scm.com/book/zh/v2
 - Git分支：https://git-scm.com/book/zh/v1/Git-%E5%88%86%E6%94%AF
+- Github 简明教程 - 操作标签 https://www.cnblogs.com/tracylxy/p/6439089.html
