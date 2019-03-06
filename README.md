@@ -208,7 +208,7 @@
 - 自己独立完成的实验，分数不会低。
 
 ## git示例
-### 克隆test资料库，如果test是私有项目，需要输入密码
+### 克隆test资料库，如果test是私有项目，需要输入密码，clone完成后，会生成一个新的目录test
 ```
 git clone https://github.com/zwdbox/test.git
 ```
