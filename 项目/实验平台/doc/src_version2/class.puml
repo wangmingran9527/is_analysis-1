@@ -45,7 +45,7 @@ class students{
     <I>user_autoid</I> 用户ID
     major 专业
     grade 年级
-    class_num 班级号
+    classnum 班级号
     department 学生所属部门
 }
 users <|- students
