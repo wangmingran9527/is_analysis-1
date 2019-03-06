@@ -225,6 +225,7 @@ ls -a
 ```
 vi a.c
 git add *
+git commit -m 'zhang 修改'
 git push
 ```
 
