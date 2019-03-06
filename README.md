@@ -207,11 +207,39 @@
 - 有抄袭嫌疑的实验，老师批改的成绩都比较低。原作者有可能是抄袭的受害者，如果出现这种情况，请告知老师修改成绩。
 - 自己独立完成的实验，分数不会低。
 
+## git示例
+### 克隆test资料库，如果test是私有项目，需要输入密码
+```
+git clone https://github.com/zwdbox/test.git
+```
+### 配置test目录
+```
+cd test
+ls
+git config --global user.name "zwdbox"
+git config --global user.email 313089057@qq.com
+ls -a
+```
+
+### 在本机修改a.c，然后push到网站，需要输入用户名和密码
+```
+vi a.c
+git add *
+git push
+```
+
+### 在网上修改文件a.c,然后pull到本机
+```
+git pull
+cat a.c
+```
+
 ## 参考资料
 - 绘制方法参考[PlantUML标准](http://plantuml.com)
 - Markdown格式参考：https://www.jianshu.com/p/b03a8d7b1719
 - 老师的教学资源：https://github.com/zwdbox/is_analysis
-- Git简书：https://git-scm.com/book/zh/v2
-- Git分支：https://git-scm.com/book/zh/v1/Git-%E5%88%86%E6%94%AF
-- Github 简明教程 - 操作标签 https://www.cnblogs.com/tracylxy/p/6439089.html
+- [Git简书](./https://git-scm.com/book/zh/v2)
+- [Git分支](./https://git-scm.com/book/zh/v1/Git-%E5%88%86%E6%94%AF)
+- [Github 简明教程 - 操作标签](./https://www.cnblogs.com/tracylxy/p/6439089.html)
+- [Git 教程](./http://www.runoob.com/git/git-tutorial.html)
 - [GitWindows客户端](./gitgfb_ttrar.rar)
