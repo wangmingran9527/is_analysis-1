@@ -241,6 +241,10 @@ cat a.c
 - Git简书 https://git-scm.com/book/zh/v2
 - Git分支 https://git-scm.com/book/zh/v1/Git-%E5%88%86%E6%94%AF
 - Github 简明教程-操作标签 https://www.cnblogs.com/tracylxy/p/6439089.html
-- Git菜鸟教程 http://www.runoob.com/git/git-tutorial.html)
+- Git菜鸟教程 http://www.runoob.com/git/git-tutorial.html
 - [GitWindows客户端](./gitgfb_ttrar.rar)
 - 版本控制样例参见：https://github.com/oracle/db-sample-schemas
+
+##团队协作样例图：
+
+![book](./git_team.png)
