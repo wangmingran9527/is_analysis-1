@@ -243,3 +243,4 @@ cat a.c
 - Github 简明教程-操作标签 https://www.cnblogs.com/tracylxy/p/6439089.html
 - Git菜鸟教程 /http://www.runoob.com/git/git-tutorial.html)
 - [GitWindows客户端](./gitgfb_ttrar.rar)
+- 版本控制样例参见：https://github.com/oracle/db-sample-schemas
