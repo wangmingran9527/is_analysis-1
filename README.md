@@ -5,37 +5,10 @@
 
 ![book](book.jpg)
 
-清华大学出版社 王晓敏 邝孔武 编著
+清华大学出版社 王晓敏 邝孔武 编著 ， 主讲：成都大学信息科学与工程学院 赵卫东副教授
 
-主讲：成都大学信息科学与工程学院 赵卫东副教授
-
-## 老师编写的基于GitHub的实验管理平台
-- 查看与修改你的GitHub用户名：http://202.115.86.207/
-- 源码参见: https://github.com/zwdbox/is_analysis/tree/master/项目/实验平台
-- 注意：
-    - 查询个人成绩界面中不要出现下图中的“错误地址”，否则会没有成绩。
-    ![](p3.jpg)
-    
-    - 如果在校外无法访问，需要安装VPN软件：GlobalProtect，然后在门户中输入vpn.cdu.edu.cn，再连接的时候输入你的用户名和密码。连接成功的样例如下    
-    ![](vpn.jpg)
-    
-## 搭建文档编写环境：
-- 编辑器: IntelliJ IDEA
-- IDEA插件: markdown 和 plantuml
-- 单独安装: git 和 graphviz
-
-## 期末考查
-- [期末考核要求](./test6.md)
-- 老师做的<b>基于GitHub的实验管理平台</b>参考：https://github.com/zwdbox/is_analysis/tree/master/test6
-- 期末考查比较优秀(90分以上)的同学如下：<b> 一分耕耘，一分收获，高分同学的成绩来自于他/她的努力和汗水。</b> 
-
-    
-## 期末最终成绩说明：
-    平时成绩占50%，期末考试占50%。
-    比如：平时5次实验成绩是：90,80,85,75,80，期末实验的成绩是67
-    那么：学期最终成绩是：(90+80+85+75+80)/5*0.5+67*0.5 = 74.5分
-    
 ## 实验
+- 实验平台地址：http://202.115.86.207/
 
 - ### [实验1：业务流程建模](./test1.md)
     - 实验1批改情况说明（大家都容易出现的问题有）：
@@ -210,14 +183,14 @@
 ## git示例
 ### 克隆test资料库，如果test是私有项目，需要输入密码，clone完成后，会生成一个新的目录test
 ```
-git clone https://github.com/zwdbox/test.git
+git clone https://github.com/你的github用户名/test.git
 ```
 ### 配置test目录
 ```
 cd test
 ls
-git config --global user.name "zwdbox"
-git config --global user.email 313089057@qq.com
+git config --global user.name "你的github用户名"
+git config --global user.email 你的github邮箱
 ls -a
 ```
 
@@ -235,6 +208,32 @@ git pull
 cat a.c
 ```
 
+
+## 老师编写的基于GitHub的实验管理平台
+- 源码参见: https://github.com/zwdbox/is_analysis/tree/master/项目/实验平台
+- 注意：
+    - 查询个人成绩界面中不要出现下图中的“错误地址”，否则会没有成绩。
+    ![](p3.jpg)
+    
+    - 如果在校外无法访问，需要安装VPN软件：GlobalProtect，然后在门户中输入vpn.cdu.edu.cn，再连接的时候输入你的用户名和密码。连接成功的样例如下    
+    ![](vpn.jpg)
+    
+## 搭建文档编写环境：
+- 编辑器: IntelliJ IDEA
+- IDEA插件: markdown 和 plantuml
+- 单独安装: git 和 graphviz
+
+## 期末考查
+- [期末考核要求](./test6.md)
+- 老师做的<b>基于GitHub的实验管理平台</b>参考：https://github.com/zwdbox/is_analysis/tree/master/test6
+- 期末考查比较优秀(90分以上)的同学如下：<b> 一分耕耘，一分收获，高分同学的成绩来自于他/她的努力和汗水。</b> 
+
+    
+## 期末最终成绩说明：
+    平时成绩占50%，期末考试占50%。
+    比如：平时5次实验成绩是：90,80,85,75,80，期末实验的成绩是67
+    那么：学期最终成绩是：(90+80+85+75+80)/5*0.5+67*0.5 = 74.5分
+    
 ## 参考资料
 - 绘制方法参考[PlantUML标准](http://plantuml.com)
 - Markdown格式参考：https://www.jianshu.com/p/b03a8d7b1719
