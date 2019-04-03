@@ -18,7 +18,7 @@ ArrayList : size()
 
 ### 1.2. 类图如下：
 
-参见图7.6
+参见图8.17
 
 ![class](class1.png)
 
