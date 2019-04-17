@@ -45,8 +45,13 @@
 ._文本段落 {
   text-align:left;
 }
+.arrow {
+}
 .text_field {
   color:#000000;
+  text-align:left;
+}
+.checkbox {
   text-align:left;
 }
 .html_button {
@@ -56,8 +61,4 @@
 }
 .sticky_1 {
   text-align:left;
-}
-.icon {
-}
-.flow_shape {
 }
