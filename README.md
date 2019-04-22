@@ -226,9 +226,36 @@
           |status|bool类型，true表示正确的返回，false表示有错误|
           |info|返回结果说明信息|
               
-## 抄袭说明
-- 有抄袭嫌疑的实验，老师批改的成绩都比较低。原作者有可能是抄袭的受害者，如果出现这种情况，请告知老师修改成绩。
-- 自己独立完成的实验，分数不会低。
+## 实验6：期末考查说明
+- 参见[期末考核要求](./test6.md)
+- 老师的分析与设计：https://github.com/zwdbox/is_analysis/tree/master/test6
+- 老师的源码: https://github.com/zwdbox/is_analysis/tree/master/项目/实验平台
+- 你的实验内容提交成功后，可以直接访问https://github.com/<b>zhang</b>/is_analysis/tree/master/test6
+ 查看你编写的实验文档。其中zhang是你的gitHub用户名。
+- 期末考查比较优秀(90分以上)的同学如下：<b> 一分耕耘，一分收获，高分同学的成绩来自于他/她的努力和汗水。</b>
+
+- 期末最终成绩说明：
+    平时成绩（到课情况）占20%，5次实验成绩占40%，期末项目设计占40%。
+    比如：平时成绩80分，5次实验成绩是：90,80,85,75,80，期末实验的成绩是67
+    那么：**学期最终成绩**= 80*0.2 + (90+80+85+75+80)/5*0.4 + 67*0.4= 75.6分
+    
+## 搭建文档编写环境：
+- 编辑器: IntelliJ IDEA
+- IDEA插件: markdown 和 plantuml
+- 单独安装: git 和 graphviz
+
+## 参考资料
+- 绘制方法参考[PlantUML标准](http://plantuml.com)
+- Markdown格式参考：https://www.jianshu.com/p/b03a8d7b1719
+- 老师的教学资源：https://github.com/zwdbox/is_analysis
+- Git简书 https://git-scm.com/book/zh/v2
+- Git分支 https://git-scm.com/book/zh/v1/Git-%E5%88%86%E6%94%AF
+- Github 简明教程-操作标签 https://www.cnblogs.com/tracylxy/p/6439089.html
+- Git菜鸟教程 http://www.runoob.com/git/git-tutorial.html
+- [GitWindows客户端](./gitgfb_ttrar.rar)
+- 版本控制样例参见：https://github.com/oracle/db-sample-schemas
+- 文档编写工具 Sphinx 使用手册 https://of.gugud.com/t/topic/185 https://zh-sphinx-doc.readthedocs.io/en/latest/contents.html
+##团队协作样例图：
 
 ## git示例
 ### 克隆test资料库，如果test是私有项目，需要输入密码，clone完成后，会生成一个新的目录test
@@ -259,43 +286,5 @@ git push
 git pull
 cat a.c
 ```
-
-
-## 老师编写的基于GitHub的实验管理平台
-- 源码参见: https://github.com/zwdbox/is_analysis/tree/master/项目/实验平台
-- 注意：
-    - 查询个人成绩界面中不要出现下图中的“错误地址”，否则会没有成绩。
-    ![](p3.jpg)
-    
-    - 如果在校外无法访问，需要安装VPN软件：GlobalProtect，然后在门户中输入vpn.cdu.edu.cn，再连接的时候输入你的用户名和密码。连接成功的样例如下    
-    ![](vpn.jpg)
-    
-## 搭建文档编写环境：
-- 编辑器: IntelliJ IDEA
-- IDEA插件: markdown 和 plantuml
-- 单独安装: git 和 graphviz
-
-## 期末考查
-- [期末考核要求](./test6.md)
-- 老师做的<b>基于GitHub的实验管理平台</b>参考：https://github.com/zwdbox/is_analysis/tree/master/test6
-- 期末考查比较优秀(90分以上)的同学如下：<b> 一分耕耘，一分收获，高分同学的成绩来自于他/她的努力和汗水。</b> 
-
-## 期末最终成绩说明：
-    平时成绩（到课情况）20%，5次实验成绩占40%，期末项目设计占40%。
-    比如：平时成绩80分，5次实验成绩是：90,80,85,75,80，期末实验的成绩是67
-    那么：学期最终成绩是：80*0.2 + (90+80+85+75+80)/5*0.4 + 67*0.4= 75.6分
-    
-## 参考资料
-- 绘制方法参考[PlantUML标准](http://plantuml.com)
-- Markdown格式参考：https://www.jianshu.com/p/b03a8d7b1719
-- 老师的教学资源：https://github.com/zwdbox/is_analysis
-- Git简书 https://git-scm.com/book/zh/v2
-- Git分支 https://git-scm.com/book/zh/v1/Git-%E5%88%86%E6%94%AF
-- Github 简明教程-操作标签 https://www.cnblogs.com/tracylxy/p/6439089.html
-- Git菜鸟教程 http://www.runoob.com/git/git-tutorial.html
-- [GitWindows客户端](./gitgfb_ttrar.rar)
-- 版本控制样例参见：https://github.com/oracle/db-sample-schemas
-- 文档编写工具 Sphinx 使用手册 https://of.gugud.com/t/topic/185 https://zh-sphinx-doc.readthedocs.io/en/latest/contents.html
-##团队协作样例图：
 
 ![book](./git_team.png)
