@@ -232,7 +232,6 @@
 - 老师的源码: https://github.com/zwdbox/is_analysis/tree/master/项目/实验平台
 - 你的实验内容提交成功后，可以直接访问https://github.com/<b>zhang</b>/is_analysis/tree/master/test6
  查看你编写的实验文档。其中zhang是你的gitHub用户名。
-- 期末考查比较优秀(90分以上)的同学如下：<b> 一分耕耘，一分收获，高分同学的成绩来自于他/她的努力和汗水。</b>
 
 - 期末最终成绩说明：
     平时成绩（到课情况）占20%，5次实验成绩占40%，期末项目设计占40%。
