@@ -239,6 +239,16 @@
     比如：平时成绩80分，5次实验成绩是：90,80,85,75,80，期末实验的成绩是67
     那么：**学期最终成绩**= 80*0.2 + (90+80+85+75+80)/5*0.4 + 67*0.4= 75.6分
     
+- 注意：需要提交电子文档和打印的纸质文档。
+
+- 提交日期是：**5月8日（星期三上午1-4节原定上课时间）**。
+    注意，由于40课时已经上完，所以5月6日的课不上，5月8日是补5月1日的课。
+- 电子文档提交地址：https://github.com/你的gitHub用户名/is_analysis/tree/master/test6
+
+- 期末考试要求及老师的文档参见：
+    https://github.com/zwdbox/is_analysis/blob/master/test6.md
+    https://github.com/zwdbox/is_analysis/tree/master/test6
+    
 ## 搭建文档编写环境：
 - 编辑器: IntelliJ IDEA
 - IDEA插件: markdown 和 plantuml
